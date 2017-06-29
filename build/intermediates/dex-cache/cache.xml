@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\dome\SaundProgressBar-master\完全自定义圆形progressbar\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="F:\dome\SaundProgressBar-master\完全自定义圆形progressbar\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_9e99d1288e3e84f4989c8a8497322ec440644c51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\dome\SaundProgressBar-master\完全自定义圆形progressbar\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="F:\dome\SaundProgressBar-master\完全自定义圆形progressbar\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_c82b8a751eda4a73fa84a119da469d459c52d74c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\dome\SaundProgressBar-master\完全自定义圆形progressbar\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="F:\dome\SaundProgressBar-master\完全自定义圆形progressbar\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_40ad3e145524de916368440965fb27d18b503c6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\dome\SaundProgressBar-master\完全自定义圆形progressbar\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="F:\dome\SaundProgressBar-master\完全自定义圆形progressbar\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_a086a1fcbf96da1354c66d2f5e5adee6f96efc83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\androidSdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="F:\dome\SaundProgressBar-master\完全自定义圆形progressbar\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_51aa759fa509bbcf6f6f525840acf78a98a8bebc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\dome\SaundProgressBar-master\完全自定义圆形progressbar\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\dome\SaundProgressBar-master\完全自定义圆形progressbar\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_a1d089590e9f72466368481ea9d5f36aed5d3748.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\dome\SaundProgressBar-master\完全自定义圆形progressbar\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="F:\dome\SaundProgressBar-master\完全自定义圆形progressbar\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_e07202209442e70f4b0c2d57b34197b26a72c878.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\androidSdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="F:\dome\SaundProgressBar-master\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_74985c95aeeeb48d96904b9ed174827754a86abc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\dome\SaundProgressBar-master\完全自定义圆形progressbar\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="F:\dome\SaundProgressBar-master\完全自定义圆形progressbar\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_67c7fa4069937e5d7ddd681de763ff86c98fb761.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\dome\SaundProgressBar-master\完全自定义圆形progressbar\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="F:\dome\SaundProgressBar-master\完全自定义圆形progressbar\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_2d8f5b32c8a02bd217d48d086c222d526fb40781.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\dome\SaundProgressBar-master\完全自定义圆形progressbar\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="F:\dome\SaundProgressBar-master\完全自定义圆形progressbar\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_00d6a4b60cde6249e000e574bedbbbe3dc1aa838.jar" />
+    </item>
+
+</items>

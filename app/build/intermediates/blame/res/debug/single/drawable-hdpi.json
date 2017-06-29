@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "F:\\dome\\SaundProgressBar-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "F:\\dome\\SaundProgressBar-master\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\dome\\SaundProgressBar-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\progressbar_bg.9.png",
+        "source": "F:\\dome\\SaundProgressBar-master\\app\\src\\main\\res\\drawable-hdpi\\progressbar_bg.9.png"
+    },
+    {
+        "merged": "F:\\dome\\SaundProgressBar-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\progressbar_pattern.png",
+        "source": "F:\\dome\\SaundProgressBar-master\\app\\src\\main\\res\\drawable-hdpi\\progressbar_pattern.png"
+    },
+    {
+        "merged": "F:\\dome\\SaundProgressBar-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\progress_indicator.9.png",
+        "source": "F:\\dome\\SaundProgressBar-master\\app\\src\\main\\res\\drawable-hdpi\\progress_indicator.9.png"
+    },
+    {
+        "merged": "F:\\dome\\SaundProgressBar-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\progressbar_bar.9.png",
+        "source": "F:\\dome\\SaundProgressBar-master\\app\\src\\main\\res\\drawable-hdpi\\progressbar_bar.9.png"
+    }
+]

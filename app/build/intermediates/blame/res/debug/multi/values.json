@@ -1,0 +1,125 @@
+[
+    {
+        "outputFile": "F:\\dome\\SaundProgressBar-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 597,
+                    "endColumn": 57,
+                    "endOffset": 650
+                },
+                "from": {
+                    "file": "F:\\dome\\SaundProgressBar-master\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 655,
+                    "endColumn": 55,
+                    "endOffset": 706
+                },
+                "from": {
+                    "file": "F:\\dome\\SaundProgressBar-master\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 711,
+                    "endColumn": 53,
+                    "endOffset": 760
+                },
+                "from": {
+                    "file": "F:\\dome\\SaundProgressBar-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 53,
+                        "endOffset": 105
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 765,
+                    "endColumn": 26,
+                    "endOffset": 787
+                },
+                "from": {
+                    "file": "F:\\dome\\SaundProgressBar-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 231,
+                        "endColumn": 33,
+                        "endOffset": 260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 792,
+                    "endLine": 23,
+                    "endColumn": 12,
+                    "endOffset": 1231
+                },
+                "from": {
+                    "file": "F:\\dome\\SaundProgressBar-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 268,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 715
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1236,
+                    "endLine": 30,
+                    "endColumn": 12,
+                    "endOffset": 1649
+                },
+                "from": {
+                    "file": "F:\\dome\\SaundProgressBar-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 723,
+                        "endLine": 29,
+                        "endColumn": 12,
+                        "endOffset": 1142
+                    }
+                }
+            }
+        ]
+    }
+]
